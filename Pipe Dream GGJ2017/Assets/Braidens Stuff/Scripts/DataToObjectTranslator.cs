@@ -15,6 +15,7 @@ public class DataToObjectTranslator : MonoBehaviour {
     [Range(0.1f,1)]
     public float VolumeLevel;
 
+
     //scale the input pieces Y axis  by the volume level
 	// Use this for initialization
 	void Start () {

@@ -435,6 +435,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98cc16f6bfaa50b4fafeaccbd463bfb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BPM_ChartNumber: 0
+  RowAndColumSize: e803000020000000
+  ObstacleType1: 0100000001000000
+  ObstacleType2: 0200000001000000
+  ObstacleType3: 0300000001000000
+  ObstacleType4: 0400000001000000
+  ReadyToPushObjects: []
+  TypePrefabs:
+  - {fileID: 1932008775096082, guid: 3b874bea549214e4487c8b634775e0ce, type: 2}
+  - {fileID: 1664899567739096, guid: 6cc050ceeac34204ba217f3d9f8061b6, type: 2}
+  - {fileID: 1934388561572402, guid: ada4c80090a483b46a78cc8e471689a5, type: 2}
+  - {fileID: 1177791223814970, guid: 6eb3f2c3e4b6b5046a62a80845ad9a4b, type: 2}
 --- !u!4 &1355426060
 Transform:
   m_ObjectHideFlags: 0
