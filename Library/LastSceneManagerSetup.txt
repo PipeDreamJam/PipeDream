@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Beat check inst.unity
+  isLoaded: 1
+  isActive: 1
